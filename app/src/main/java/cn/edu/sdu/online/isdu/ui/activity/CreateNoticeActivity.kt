@@ -158,6 +158,7 @@ class CreateNoticeActivity : NormActivity(), View.OnClickListener{
                     dialog.show()
                 }
             }
+
         }
     }
 
